@@ -1,0 +1,17 @@
+graph {
+
+    A -- M[label="155",weight="155"];
+    A -- B[label="113",weight="113"];
+    B -- C[label="87",weight="87"];
+    C -- D[label="107",weight="107"];
+    C -- E[label="110",weight="110"];
+    D -- E[label="70",weight="70"];
+    E -- F[label="310",weight="310"];
+    F -- J[label="135",weight="135"];
+    F -- I[label="107",weight="107"];
+    F -- G[label="222",weight="222"];
+    G -- H[label="229",weight="229"];
+    H -- I[label="257",weight="257"];
+    J -- M[label="405",weight="405"];
+    I -- J[label="110",weight="110"];
+}
