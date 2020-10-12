@@ -1,0 +1,36 @@
+graph {
+
+    A -- M;
+
+    A -- B;
+
+    B -- C;
+
+    C -- D;
+
+    C -- E;
+
+    D -- E;
+
+    E -- F;
+
+    F -- J;
+
+    F -- I;
+
+    I -- J;
+
+    F -- G;
+
+    G -- H;
+
+    H -- I;
+
+    J -- M;
+
+    
+}
+
+
+Un chemin possible de M vers H:
+M - J - I - H
