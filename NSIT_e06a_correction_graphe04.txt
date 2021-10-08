@@ -1,3 +1,3 @@
-Une bonne technique pour sortir dun labyrinthe 'parfait' s'appelle la tchnique de la main droite:
+Une bonne technique pour sortir dun labyrinthe 'parfait' s'appelle la technique de la main droite:
 https://fr.wikipedia.org/wiki/R%C3%A9solution_de_labyrinthe
 
